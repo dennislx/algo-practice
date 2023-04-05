@@ -95,6 +95,3 @@ plugins:
 nav:
   - Preface: index.md
   - Style Guide: styleguide.md
-  - Problems:
-      - "3. Longest Substring Without Repeating Characters": problems/0003.md
-      - "11. Container With Most Water": problems/0011.md
