@@ -15,4 +15,4 @@ cp README.md mkdocs/docs/index.md
 cp STYLEGUIDE.md mkdocs/docs/styleguide.md
 
 cd mkdocs
-mkdocs serve -a localhost:8082
+mkdocs serve -a 128.175.21.160:8082
